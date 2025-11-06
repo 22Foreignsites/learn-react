@@ -1,0 +1,10 @@
+#home h1{
+    color: red;
+}
+
+#about h2{
+    color: brown;
+}
+#home {
+    padding:0;
+}
